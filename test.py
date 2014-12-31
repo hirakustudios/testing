@@ -1,4 +1,2 @@
-from datetime import datetime
-current = datetime
-
-print current
+addition = 50 + 50
+print addition
